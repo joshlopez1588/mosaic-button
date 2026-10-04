@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Button Challenge</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <button class="mosaic" type="button" data-mosaic>
+      <span class="mosaic__surface">
+        <span class="mosaic__label">Get started</span>
+      </span>
+    </button>
+
+    <script type="module">
+      import { attachMosaic } from "./mosaic-button.js";
+
+      document.querySelectorAll("[data-mosaic]").forEach(attachMosaic);
+    </script>
+  </body>
+</html>

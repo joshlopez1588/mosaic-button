@@ -1,0 +1,6 @@
+# Reference media from the original challenge video; not ours to publish.
+IMG_*
+
+# Local tooling
+.impeccable/
+.DS_Store
