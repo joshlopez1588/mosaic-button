@@ -85,3 +85,13 @@ These were about publishing, not the button.
 **13**
 
 > I'm updating this repo now. I just realized I'm still watching the video, and now he's asking for a way to share it. I already shared it well before the 20-minute timer, but make a note of that.
+
+**14**
+
+> Yeah, this video, I basically got all this done before I even knew that he needed it shareable. It's already on a Git public repo well before the 20-minute mark.
+
+**15**
+
+> i guess you can put it but also Try to include time and everything, evidence of this, within this git. Get that final one. This should be the final prompt. Get it up. Shut down localhost 5174, whatever host port you used, and get it done. Close it out.
+
+When each prompt was sent: [TIMELINE.md](TIMELINE.md).

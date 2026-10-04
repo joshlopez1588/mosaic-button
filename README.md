@@ -23,7 +23,8 @@ My comment on the video:
 
 **Shared before the timer.** Later in the video the host asks entrants for a way
 to share their work. This repo was already public and linked in my comment by
-then, well inside the 20-minute limit. The commit history has the timestamps.
+then, well inside the 20-minute limit: the repo went public 10 minutes 5 seconds
+after my first prompt. Times and sources are in [TIMELINE.md](TIMELINE.md).
 
 Every prompt I sent, word for word, plus the method: [PROMPTS.md](PROMPTS.md).
 
