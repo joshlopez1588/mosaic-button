@@ -17,7 +17,8 @@ My comment on the video:
 > 9 minutes and 26 seconds. I ended up feeding it a video and a photo and just gave
 > it about six prompts, but all within the 9 minutes and 26 seconds because it was
 > cooking. I used Opus 5. I'm a vibe coder, and I have no idea what I'm doing. This
-> is so cool. I would love to join a challenge like this.
+> is so cool. I would love to join a challenge like this. The video is still going
+> on as this comment is coming in lol https://github.com/joshlopez1588/mosaic-button
 
 ## Run
 
