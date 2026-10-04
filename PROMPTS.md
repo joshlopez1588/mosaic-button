@@ -81,3 +81,7 @@ These were about publishing, not the button.
 **12**
 
 > On GitHub, can you also post my prompts exactly as well? You can even put my prompts that I put in after the fact, and my method. Go for it. Put it on Git.
+
+**13**
+
+> I'm updating this repo now. I just realized I'm still watching the video, and now he's asking for a way to share it. I already shared it well before the 20-minute timer, but make a note of that.
