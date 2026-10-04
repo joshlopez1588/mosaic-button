@@ -21,6 +21,8 @@ My comment on the video:
 > on as this comment is coming in lol https://github.com/joshlopez1588/mosaic-button
 > Yes devs are cooked.
 
+Every prompt I sent, word for word, plus the method: [PROMPTS.md](PROMPTS.md).
+
 ## Run
 
 ```sh
