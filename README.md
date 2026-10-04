@@ -19,6 +19,7 @@ My comment on the video:
 > cooking. I used Opus 5. I'm a vibe coder, and I have no idea what I'm doing. This
 > is so cool. I would love to join a challenge like this. The video is still going
 > on as this comment is coming in lol https://github.com/joshlopez1588/mosaic-button
+> Yes devs are cooked.
 
 ## Run
 
